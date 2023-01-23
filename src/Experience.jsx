@@ -1,6 +1,6 @@
 import { OrbitControls } from '@react-three/drei'
-import Lights from './Lights.js'
-import Hamburger from './Hamburger.js'
+import Lights from './Lights.jsx'
+import Hamburger from './Hamburger.jsx'
 
 export default function Experience()
 {
